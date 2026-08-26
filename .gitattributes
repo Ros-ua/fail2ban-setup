@@ -1,0 +1,3 @@
+# скрипт исполняется на Linux: переводы строк только LF.
+# Иначе правка с Windows добавит CR и bash упадёт на ": command not found".
+*.sh text eol=lf
